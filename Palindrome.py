@@ -1,1 +1,0 @@
-# add a function that returns a boolean if the word is a palindrome or not
